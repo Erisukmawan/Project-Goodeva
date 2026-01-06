@@ -64,7 +64,7 @@ docker compose up --build
 5. UI Update Data Success <br>
 <img src="./Images/ui_update_data_success.png" width="400" alt="ui-update-data"></a>
 6. UI Delete Success <br>
-<img src="./Images/ui_delete_data.png" width="400" alt="ui-delete-data"></a>
+<img src="./Images/ui_deleted_data.png" width="400" alt="ui-delete-data"></a>
 
 
 #### Docker Desktop
